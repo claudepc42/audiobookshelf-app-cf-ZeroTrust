@@ -1,5 +1,10 @@
 # Audiobookshelf Mobile App — Cloudflare Zero Trust
 
+> ## ⚠️ This repository has moved
+> Development now happens at **[claudepc42/audiobookshelf-app-cloudflare-zero-trust](https://github.com/claudepc42/audiobookshelf-app-cloudflare-zero-trust)**. This repo is archived and read-only — please use the new one for the latest releases, issues, and downloads.
+
+---
+
 > **This is an unofficial patched build of the [Audiobookshelf Android app](https://github.com/advplyr/audiobookshelf-app).**
 > It adds Cloudflare Zero Trust support — both WebView SSO login and manual service token headers — plus LAN address auto-routing for full local network speed at home, encrypted credential storage, and a cold-start auto-connect fix.
 >
